@@ -218,16 +218,41 @@ html{
     font-size: 0.7rem;
 }
 .o_footer_omnispace{
+    background-color: #4f4f51;
+    text-align: center;
+    overflow: hidden;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.o_footer_omnispace p{
     font-family: 'Arimo', sans-serif;
     color: #ffffff;
-    font-size: .8rem;
-    background-color: #4f4f51;
-    height: 80px;
-    line-height: 80px;
-    text-align: center;
+    font-size: 0.8rem;
     font-weight: 100;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #f15a31;
+    width: max-content;
+    text-align: center;
+    margin: 0 auto;
 }
-
+.o_footer_omnispace p:last-child{
+    padding-bottom: 0;
+    border-bottom: none;
+}
+.o_footer_omnispace img{
+    height: 20px;
+    object-fit: cover;
+    -ms-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+}
+.o_footer_omnispace img:hover{
+    opacity: 0.8;
+    margin-left: 5px;
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari prior 9.0 */
+    transform: scale(1.2); /* Standard syntax */
+}
 .video-container {
     position: relative;
     padding-bottom: 56.25%;

@@ -19,7 +19,7 @@
 				<div class="col-lg-3">
 					<h6 class="o_footer_head">Contact</h6>
 					<p class="o_footer_para_text"><span class="o_footer_marker_img"><img src="<?php echo get_template_directory_uri(); ?>/css/images/location-trade.png" alt="image not found"></span>BGMEA Bhavan</p>
-					<p class="o_footer_para_text" style="margin-top: -32px;"><span style="padding-left: 37px;">Sector 17, Uttara</span><br><span style="padding-left: 37px;">Dhaka-1000, Bangladesh</span></p>
+					<p class="o_footer_para_text" style="margin-top: -32px;"><span style="padding-left: 37px;">Sector 17, Uttara</span><br><span style="padding-left: 37px;">Dhaka-1230, Bangladesh</span></p>
 					<p class="o_footer_para_text"><span class="o_footer_marker_img"><img style="height: 28px;" src="<?php echo get_template_directory_uri(); ?>/css/images/phone-512.png" alt="image not found"></span>Phone: +880 2 9523652</p>
 					<p class="o_footer_para_text o_footer_text_tab">+880 17 218 927<br> +880 17 555 367</p>
 					<p class="o_footer_para_text"><span class="o_footer_marker_img"><img style="height: 28px;" src="<?php echo get_template_directory_uri(); ?>/css/images/mail-icon.png" alt="image not found"></span>Email: contact@bgmea.com.bd</p>
@@ -51,7 +51,8 @@
 		</div>
 	</footer>
 	<div class="o_footer_omnispace">
-			Allrights Reserved | Developed By: <a class="o_footer_omnispace_link" href="http://omnispace.co">Omnispace</a>
+			<p>&copy;2020 BGMEA, All Rights Reserved</p> 
+			<p>Developed By: <a class="o_footer_omnispace_link" href="http://omnispace.co"><span><img src="<?php echo get_template_directory_uri(); ?>/css/images/Omni_blue_logo.png" alt=""></span></a></p>
 		</div>
 </div><!-- #page -->
 

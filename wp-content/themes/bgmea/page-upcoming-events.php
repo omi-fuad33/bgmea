@@ -11,7 +11,7 @@ get_header();
         <div class="col-lg-9">
             <?php
             $currentPage = get_query_var('paged');
-            $args = array('category_name' => 'latest-news',
+            $args = array('category_name' => 'upcoming-events',
                           'posts_per_page' => 7,
                           'paged' => $currentPage,
 
