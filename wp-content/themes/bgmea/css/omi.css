@@ -140,7 +140,7 @@ html{
     margin-bottom: 1rem;
     color: #4f4f51;
     padding-right: 20%;
-    font-weight: 400;
+    padding-left: 10px;
     font-family: 'Arimo', sans-serif;
 }
 .o_pagination_links a, .o_pagination_links a:visited{
@@ -148,7 +148,7 @@ html{
 }
 .o_pagination_links .current, .o_pagination_links a:hover{
     color: #f25b52;
-    text-decoration: none;
+    text-decoration: underline;
 }
 /* Gallery section */
 .o_front_gallery_section_wrapper{
