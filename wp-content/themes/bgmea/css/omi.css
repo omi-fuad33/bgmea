@@ -90,6 +90,9 @@ html{
     object-fit: cover;
     margin-left: 10%;
 }
+.o_media_section_president_img:hover{
+    opacity: 0.9;
+}
 .o_president_statement_link{
     background-color: #F15A31;
     font-family: 'Arimo', sans-serif;
@@ -137,6 +140,8 @@ html{
     margin-bottom: 1rem;
     color: #4f4f51;
     padding-right: 20%;
+    font-weight: 400;
+    font-family: 'Arimo', sans-serif;
 }
 .o_pagination_links a, .o_pagination_links a:visited{
     color: #4f4f51;
