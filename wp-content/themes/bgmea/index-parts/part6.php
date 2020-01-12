@@ -1,4 +1,15 @@
 <!-- Omi's part -->
+<div class="row">
+  <div class="col-sm-12 col-md-4 d_apparel_img_div d-md-none">
+ <?php $image_id = get_post_thumbnail_id(212);
+       $image_url = wp_get_attachment_image_src($image_id, 'full', true);
+  ?>
+  <img class="d_apparel_img" src="<?php echo $image_url[0]; ?>">
+
+</div>
+</div>
+
+
 <section class="container o_front_gallery_section_wrapper">
 <h2 class="o_gallery_section_header">Gallery</h2>
 <div class="o_front_gallery_section_inner_wrapper">

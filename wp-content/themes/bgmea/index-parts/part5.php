@@ -21,7 +21,7 @@
             <div class="o_media_section_post_wrap row">
             <?php
                 $image_id = get_post_thumbnail_id();
-                $image_url = wp_get_attachment_image_src($image_id, 'full', true); 
+                $image_url = wp_get_attachment_image_src($image_id, 'full', true);
             ?>
                 <img class="o_media_section_img col-lg-5" src="<?php echo $image_url[0]; ?>">
                 <div class="o_media_section_title_wrap col-lg-7">
@@ -39,7 +39,7 @@
         </div>
         <div class="col-lg-3 o_media_section_right_sidebar">
         <div class="o_president_box_wrap">
-            <a href="#"><img class="o_media_section_president_img o_media_section_our_team_img" src="<?php echo get_home_url(); ?>/wp-content/uploads/2019/12/monthly-digest-min-2.png" alt="image not found">
+            <a href="#"><img class="o_media_section_president_img o_media_section_our_team_img" src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/weekly_digest_min-1.jpg" alt="image not found">
             <p class="o_president_statement_link">Weekly digest</p></a>
          </div>
         <div class="o_president_box_wrap">
@@ -47,7 +47,7 @@
             <p class="o_president_statement_link">Monthly digest</p></a>
         </div>
         <div class="o_president_box_wrap">
-            <a href="#"><img class="o_media_section_president_img o_media_section_our_team_img" src="<?php echo get_home_url(); ?>/wp-content/uploads/2019/12/monthly-digest-min-2.png" alt="image not found">
+            <a href="#"><img class="o_media_section_president_img o_media_section_our_team_img" src="<?php echo get_home_url(); ?>/wp-content/uploads/2020/01/projects_min-1.jpg" alt="image not found">
             <p class="o_president_statement_link">Projects</p></a>
         </div>
         </div>
