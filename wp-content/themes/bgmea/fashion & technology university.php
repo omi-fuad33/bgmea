@@ -87,6 +87,7 @@
 <br><br><br>
 
 <!--The lower level boxes-- FAQ, Download....-->
+<!--
     <div class="n_lowerBox">
         <div class="row n_lowerDiv">
 
@@ -98,6 +99,7 @@
         </div>
         
 </div>
+-->
 
 <!--The lower level boxes-- FAQ, Download.... ends-->
 

@@ -9,6 +9,10 @@
 }
 
 /*------------------Styling for Links----------------------------------*/
+.n_a
+{
+    font-size: 0.9rem!important;
+}
 .n_a:link {
   text-decoration: none;
   color:white;    
@@ -56,7 +60,7 @@
      color:#F15A31;
      font-family: 'Arimo', sans-serif;
      font-size: 1.1rem!important;
-     text-transform:uppercase;
+/*     text-transform:uppercase;*/
      font-weight: bold;
      margin-left: 15%;
 }
@@ -68,7 +72,7 @@
      
 }
  .n_details {
-     font-size: 0.8rem!important;
+     font-size: 0.2rem!important;
      font-family: 'Arimo', sans-serif;
      margin-left: 15%;
      font-weight: bold;
