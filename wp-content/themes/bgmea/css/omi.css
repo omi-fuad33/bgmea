@@ -42,6 +42,7 @@ html{
     text-decoration: none;
     color: #f25b52;
 }
+
 .o_media_section_excerpt p{
     font-family: 'Arimo', sans-serif;
     font-size: 0.9rem;
@@ -68,7 +69,7 @@ html{
     vertical-align: center;
 }
 .o_view_more_button:hover{
-    background-color: #c7340c;
+    background-color: #e74417;;
 }
 .o_view_more_link:hover{
     text-decoration: none;
@@ -89,6 +90,9 @@ html{
     object-fit: cover;
     margin-left: 10%;
 }
+.o_media_section_president_img:hover{
+    opacity: 0.9;
+}
 .o_president_statement_link{
     background-color: #F15A31;
     font-family: 'Arimo', sans-serif;
@@ -100,9 +104,24 @@ html{
     font-weight: 600;
     height: 40px;
     line-height: 40px;
+    -webkit-box-shadow: 0px 15px 13px -9px rgba(143,143,143,0.92);
+    -moz-box-shadow: 0px 15px 13px -9px rgba(143,143,143,0.92);
+    box-shadow: 0px 15px 13px -9px rgba(143,143,143,0.92);
+}
+.o_president_statement_link:hover{
+    text-decoration: none;
+    background-color: #e74417;
 }
 .o_president_box_wrap{
     margin-bottom: 10%;
+    
+}
+.o_president_box_wrap a, .o_president_box_wrap a:visited{
+    color: #ffffff;
+}
+.o_president_box_wrap a:hover{
+    text-decoration: none;
+    cursor: pointer;
 }
 .o_media_section_our_team_img{
     height: 220px;
@@ -121,13 +140,15 @@ html{
     margin-bottom: 1rem;
     color: #4f4f51;
     padding-right: 20%;
+    padding-left: 10px;
+    font-family: 'Arimo', sans-serif;
 }
 .o_pagination_links a, .o_pagination_links a:visited{
     color: #4f4f51;
 }
 .o_pagination_links .current, .o_pagination_links a:hover{
     color: #f25b52;
-    text-decoration: none;
+    text-decoration: underline;
 }
 /* Gallery section */
 .o_front_gallery_section_wrapper{
@@ -137,11 +158,11 @@ html{
 }
 .o_gallery_section_header{
     display: block;
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     font-weight: 600;
     color: #ffffff;
     background-color: #4f4f51;
-    width: 140px;
+    width: 120px;
     padding: 0.4rem;
     text-align: center;
     margin-left: 2.2rem;
@@ -218,16 +239,41 @@ html{
     font-size: 0.7rem;
 }
 .o_footer_omnispace{
+    background-color: #4f4f51;
+    text-align: center;
+    overflow: hidden;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.o_footer_omnispace p{
     font-family: 'Arimo', sans-serif;
     color: #ffffff;
-    font-size: .8rem;
-    background-color: #4f4f51;
-    height: 80px;
-    line-height: 80px;
-    text-align: center;
+    font-size: 0.8rem;
     font-weight: 100;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #f15a31;
+    width: max-content;
+    text-align: center;
+    margin: 0 auto;
 }
-
+.o_footer_omnispace p:last-child{
+    padding-bottom: 0;
+    border-bottom: none;
+}
+.o_footer_omnispace img{
+    height: 20px;
+    object-fit: cover;
+    -ms-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+}
+.o_footer_omnispace img:hover{
+    opacity: 0.8;
+    margin-left: 5px;
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari prior 9.0 */
+    transform: scale(1.2); /* Standard syntax */
+}
 .video-container {
     position: relative;
     padding-bottom: 56.25%;

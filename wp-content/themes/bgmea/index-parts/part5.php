@@ -43,8 +43,8 @@
             <p class="o_president_statement_link">Monthly Digest</p></a>
          </div>
             <div class="o_president_box_wrap">
-                <img class="o_media_section_president_img o_media_section_our_team_img" src="<?php echo get_home_url(); ?>/wp-content/uploads/2019/11/BGMEA_2.jpg" alt="image not found">
-                <p class="o_president_statement_link">Upcoming Events</p>
+            <a href="<?php echo get_home_url(); ?>/media-events/upcoming-events/"><img class="o_media_section_president_img o_media_section_our_team_img" src="<?php echo get_home_url(); ?>/wp-content/uploads/2019/11/BGMEA_2.jpg" alt="image not found">
+                <p class="o_president_statement_link">Upcoming Events</p></a>
             </div>
             <div class="o_president_box_wrap o_election_box_wrap">
                 <img class="o_media_section_president_img o_media_section_election_img" src="<?php echo get_home_url(); ?>/wp-content/uploads/2019/11/daily_sun_BGMEA-Election-2019-2021-jp_picture.jpg" alt="image not found">

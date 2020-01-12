@@ -20,6 +20,7 @@
 .d_social{
   text-align: right;
 }
+
 .d_below_social{
   margin-top: 20px;
   display: flex;
@@ -30,6 +31,13 @@
   text-decoration: none;
   font-size: 14px;
   padding: 0 10px 0 10px;
+
+}
+.d_below_social p{
+    transition: transform 0.5s;
+}
+.d_below_social p:hover{
+  transform: scale(1.10);
 }
 .d_s_media{
   text-align: right;
@@ -97,7 +105,7 @@ li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item a.mega-menu-link{
 
 #mega-menu-wrap-primary-menu #mega-menu-primary-menu >
 li.mega-menu-item > a.mega-menu-link{
-  font-size: 14px !important;
+  font-size: 16px !important;
 }
 
 #mega-menu-wrap-primary-menu #mega-menu-primary-menu li.mega-menu-item-has-children >
@@ -178,9 +186,10 @@ input[type="text"]{
 }
 .d_apparel_img_div{
   max-height: 450px;
+  display: block;
 }
 .d_apparel_img{
-  padding-left: 50px;
+  padding-left: 30px;
     width: 100%;
     height: 100%;
 }
@@ -320,8 +329,9 @@ input[type="text"]{
   margin-left: 0;
 }
 .d_d_img img{
-  width: 150px;
-  height: 150px;
+  object-fit: cover;
+  width: 180px;
+  height: 220px;
 }
 
 /* Tabs for officials */
