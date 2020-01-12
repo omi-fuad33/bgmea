@@ -18,9 +18,9 @@
 			<div class="row">
 				<div class="col-lg-3">
 					<h6 class="o_footer_head">Contact</h6>
-					<p class="o_footer_para_text"><span class="o_footer_marker_img"><img src="<?php echo get_template_directory_uri(); ?>/css/images/location-trade.png" alt="image not found"><strong style="font-size: 15px">BGMEA Head Office</strong></span></p><br>
-					<p class="o_footer_para_text" style="margin-top: -50px;"><span style="padding-left: 37px;">BGMEA Complex, House # 7/7A,</span><br><span style="padding-left: 37px;">Sector # 17, Block # H-1, Uttara,</span><br><span style="padding-left: 37px;">Dhaka-1230, Bangladesh.</span></p>
-                    <p class="o_footer_para_text"><span style="padding-left: 37px;"><strong style="font-size: 15px">BGMEA Regional Office</strong></span></p><br>
+					<p class="o_footer_para_text"><span class="o_footer_marker_img"><img src="<?php echo get_template_directory_uri(); ?>/css/images/location-trade.png" alt="image not found"><strong style="font-size: 14px">BGMEA Head Office</strong></span></p><br>
+					<p class="o_footer_para_text" style="margin-top: -60px;"><span style="padding-left: 37px;">BGMEA Complex, House # 7/7A,</span><br><span style="padding-left: 37px;">Sector # 17, Block # H-1, Uttara,</span><br><span style="padding-left: 37px;">Dhaka-1230, Bangladesh.</span></p>
+                    <p class="o_footer_para_text"><span style="padding-left: 37px;"><strong style="font-size: 14px">BGMEA Regional Office</strong></span></p><br>
 					<p class="o_footer_para_text" style="margin-top: -50px;"><span style="padding-left: 37px;">BGMEA (Level- 4 & 5), 669/E,</span><br><span style="padding-left: 37px;">Jhautala Road, South Khulshi,</span><br><span style="padding-left: 37px;">Chittagong.</span></p>
 					<p class="o_footer_para_text"><span class="o_footer_marker_img"><img style="height: 28px;" src="<?php echo get_template_directory_uri(); ?>/css/images/phone-512.png" alt="image not found"></span>Phone: +88 09638012345</p>
 <!--					<p class="o_footer_para_text o_footer_text_tab">+880 17 218 927<br> +880 17 555 367</p>-->
