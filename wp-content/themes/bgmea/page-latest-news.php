@@ -6,7 +6,7 @@ get_header();
 ?>
 <section class="o_media_section container">
     <div class="">
-    <h3 class="o_media_headline">Latest News</h3>
+    <h3 class="o_media_headline">Latest news</h3>
     <div class="row">
         <div class="col-lg-9">
             <?php

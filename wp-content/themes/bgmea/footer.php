@@ -18,12 +18,13 @@
 			<div class="row">
 				<div class="col-lg-3">
 					<h6 class="o_footer_head">Contact</h6>
-					<p class="o_footer_para_text"><span class="o_footer_marker_img"><img src="<?php echo get_template_directory_uri(); ?>/css/images/location-trade.png" alt="image not found"></span>BGMEA Bhavan</p>
-					<p class="o_footer_para_text" style="margin-top: -32px;"><span style="padding-left: 37px;">Sector 17, Uttara</span><br><span style="padding-left: 37px;">Dhaka-1230, Bangladesh</span></p>
-					<p class="o_footer_para_text"><span class="o_footer_marker_img"><img style="height: 28px;" src="<?php echo get_template_directory_uri(); ?>/css/images/phone-512.png" alt="image not found"></span>Phone: +880 2 9523652</p>
-					<p class="o_footer_para_text o_footer_text_tab">+880 17 218 927<br> +880 17 555 367</p>
-					<p class="o_footer_para_text"><span class="o_footer_marker_img"><img style="height: 28px;" src="<?php echo get_template_directory_uri(); ?>/css/images/mail-icon.png" alt="image not found"></span>Email: contact@bgmea.com.bd</p>
-					<p class="o_footer_para_text o_footer_text_tab" style="margin-left: 80px; margin-top: -27px;">info@bgmea.com.bd</p>
+					<p class="o_footer_para_text"><span class="o_footer_marker_img"><img src="<?php echo get_template_directory_uri(); ?>/css/images/location-trade.png" alt="image not found"><strong style="font-size: 14px">BGMEA Head Office</strong></span></p><br>
+					<p class="o_footer_para_text" style="margin-top: -60px;"><span style="padding-left: 37px;">BGMEA Complex, House # 7/7A,</span><br><span style="padding-left: 37px;">Sector # 17, Block # H-1, Uttara,</span><br><span style="padding-left: 37px;">Dhaka-1230, Bangladesh.</span></p>
+                    <p class="o_footer_para_text"><span style="padding-left: 37px;"><strong style="font-size: 14px">BGMEA Regional Office</strong></span></p><br>
+					<p class="o_footer_para_text" style="margin-top: -50px;"><span style="padding-left: 37px;">BGMEA (Level- 4 & 5), 669/E,</span><br><span style="padding-left: 37px;">Jhautala Road, South Khulshi,</span><br><span style="padding-left: 37px;">Chittagong.</span></p>
+					<p class="o_footer_para_text"><span class="o_footer_marker_img"><img style="height: 28px;" src="<?php echo get_template_directory_uri(); ?>/css/images/phone-512.png" alt="image not found"></span>Phone: +88 09638012345</p>
+<!--					<p class="o_footer_para_text o_footer_text_tab">+880 17 218 927<br> +880 17 555 367</p>-->
+					<p class="o_footer_para_text"><span class="o_footer_marker_img"><img style="height: 28px;" src="<?php echo get_template_directory_uri(); ?>/css/images/mail-icon.png" alt="image not found"></span>Email: info@bgmea.com.bd</p>
 				</div>
 				<div class="col-lg-7">
 				<div style="width: 100%"><iframe width="100%" height="240" src="https://maps.google.com/maps?width=100%&amp;height=240&amp;hl=en&amp;q=BGMEA%20New%20Building%20%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%8F%E0%A6%AE%E0%A6%87%E0%A6%8F%20%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8%20%E0%A6%AD%E0%A6%AC%E0%A6%A8+(My%20Business%20Name)&amp;ie=UTF8&amp;t=&amp;z=15&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.maps.ie/coordinates.html">find my location</a></iframe></div><br />

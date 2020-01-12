@@ -462,7 +462,10 @@ Media Queries */
     display: none;
   }
   .d_carousel_box{
-    height: auto;
+    margin-bottom: 5%;
+  }
+  .d_carousel_box img{
+    height: 250px;
   }
   .d_below_social{
     margin-top: 5px;
