@@ -78,14 +78,14 @@
 <!--                <p class="n_president_statement_link">Apparel Story</p>-->
               </a>
          </div>
-                                                   
-     
+
+
          <div class="n_dailyBox n_president_box_wrap">
             <a href="<?php echo get_home_url(); ?>/daily-digest/"><img class="n_media_section_president_img n_media_section_our_team_img" src="<?php echo get_home_url(); ?>/wp-content/uploads/2019/12/daily-digest-min.jpg" alt="image not found">
-           
+
                 <p class="n_president_statement_link">Daily Digest</p></a>
          </div>
-         
+
          <div class="n_dailyBox n_president_box_wrap">
             <a href="<?php echo get_home_url(); ?>/activities/stories-to-tell/"><img class="n_media_section_president_img n_media_section_our_team_img" src="<?php echo get_home_url(); ?>/wp-content/uploads/2019/12/stories-to-tell-min.jpg" alt="image not found">
                 <p class="n_president_statement_link">Stories to tell</p></a>
@@ -96,15 +96,15 @@
   </div>
 
 
-<div class="row n_newBox">      
-                                                   
-     
+<div class="row n_newBox">
+
+
          <div class="n_newBox n_dailyBox">
             <a href="<?php echo get_home_url(); ?>/daily-digest/"><img class="n_media_section_president_img n_media_section_our_team_img" src="<?php echo get_home_url(); ?>/wp-content/uploads/2019/12/daily-digest-min.jpg" alt="image not found">
-           
+
                 <p class="n_president_statement_link">Daily Digest</p></a>
          </div>
-         
+
          <div class="n_newBox n_dailyBox">
             <a href="<?php echo get_home_url(); ?>/activities/stories-to-tell/"><img class="n_media_section_president_img n_media_section_our_team_img" src="<?php echo get_home_url(); ?>/wp-content/uploads/2019/12/stories-to-tell-min.jpg" alt="image not found">
             <p class="n_president_statement_link">Stories to tell</p></a>
@@ -119,12 +119,12 @@
         <div class="row n_lowerDiv">
 
             <div class="n_lowerImage col-xl-4 col-lg-3 col-md-4 col-sm-6 col-xs-12" ><a href="#"><img class="" src="<?php echo get_home_url(); ?>/wp-content/uploads/2019/12/FAQ.png" alt="image not found"></a></div>
-    
+
             <div class="n_lowerImage  col-xl-4 col-lg-3 col-md-4 col-sm-6 col-xs-12"><a href="#"><img class="" src="<?php echo get_home_url(); ?>/wp-content/uploads/2019/12/Download.png" alt="image not found"></a></div>
-    
+
             <div class="n_lowerImage col-xl-4 col-lg-3 col-md-4 col-sm-6 col-xs-12"><a href="www.facebook.com"><img class="" src="<?php echo get_home_url(); ?>/wp-content/uploads/2019/12/Members.png" alt="image not found"> </a></div>
         </div>
-        
+
 </div>
 
 

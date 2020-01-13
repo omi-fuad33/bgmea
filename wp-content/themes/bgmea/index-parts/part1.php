@@ -44,7 +44,7 @@
   </a>
 </div>
 </div>
-<div class="col-sm-12 col-md-4 d_apparel_img_div">
+<div class="col-sm-12 col-md-4 d_apparel_img_div d-none d-md-block">
   <?php $image_id = get_post_thumbnail_id(212);
         $image_url = wp_get_attachment_image_src($image_id, 'full', true);
    ?>
