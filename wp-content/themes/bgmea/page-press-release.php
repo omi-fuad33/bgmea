@@ -58,7 +58,7 @@ get_header();
             <p class="o_president_statement_link">Weekly digest</p></a>
          </div>
         <div class="o_president_box_wrap">
-            <a href="<?php echo get_home_url(); ?>/media-events/upcoming-events/"><img class="o_media_section_president_img o_media_section_our_team_img" src="<?php echo get_home_url(); ?>/wp-content/uploads/2019/12/monthly-digest-min-2.png" alt="image not found">
+            <a href="#"><img class="o_media_section_president_img o_media_section_our_team_img" src="<?php echo get_home_url(); ?>/wp-content/uploads/2019/12/monthly-digest-min-2.png" alt="image not found">
             <p class="o_president_statement_link">Monthly digest</p></a>
         </div>
         <div class="o_president_box_wrap">

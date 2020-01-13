@@ -114,7 +114,7 @@ html{
 }
 .o_president_box_wrap{
     margin-bottom: 10%;
-
+    
 }
 .o_president_box_wrap a, .o_president_box_wrap a:visited{
     color: #ffffff;
@@ -217,8 +217,8 @@ html{
     margin-right: 10px;
 }
 .o_footer_text_tab{
-    margin-top: -28px;
-    margin-left: 38px;
+    margin-top: -30px;
+    margin-left: 85px;
 }
 .o_footer_head_right{
     width: 100px;
@@ -279,7 +279,7 @@ html{
     padding-bottom: 56.25%;
     padding-top: 30px; height: 0; overflow: hidden;
     }
-
+     
     .video-container iframe,
     .video-container object,
     .video-container embed {
@@ -316,14 +316,13 @@ html{
 
 @media only screen and (max-width: 576px) {
     .o_media_section_post_wrap {
-        padding-right: 0;
+        padding-right: 0;    
     }
     .o_media_section_excerpt p{
         font-size: 0.75rem;
     }
     .o_media_section_right_sidebar{
         text-align: center;
-        margin-top: 5%;
     }
     .o_media_section_president_img{
         margin-left: 0;
@@ -359,7 +358,7 @@ html{
         height: 320px;
     }
     .o_media_section_post_wrap {
-        padding-right: 0;
+        padding-right: 0;    
     }
     .o_media_section_excerpt p{
         font-size: 0.75rem;
